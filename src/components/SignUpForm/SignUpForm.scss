@@ -1,0 +1,23 @@
+@import "../../Scss/index.scss";
+.sign-up-form{
+    font-weight: bold;
+    padding-bottom: 3px;
+    
+}
+
+.form-group{
+    padding-bottom: 3px;
+
+input{
+    font-size: 25px;
+}
+}
+
+button{
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    border-radius: 50px;
+    margin-top: 20px;
+}
