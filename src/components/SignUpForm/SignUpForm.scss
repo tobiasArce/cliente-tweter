@@ -2,14 +2,20 @@
 .sign-up-form{
     font-weight: bold;
     padding-bottom: 3px;
-    
+h2{
+    color : $font-light;
+    font-weight: bold;
+    padding-bottom: 30px;
+    justify-content: center;
+    width: 100%;
 }
-
 .form-group{
-    padding-bottom: 3px;
+    
+    padding-bottom: 10px;
 
 input{
-    font-size: 25px;
+    width: 100%;
+   
 }
 }
 
@@ -20,4 +26,10 @@ button{
     padding: 15px;
     border-radius: 50px;
     margin-top: 20px;
+
+ .spinner-border{
+    width: 25px;
+    height: 25px;
+}
+}
 }

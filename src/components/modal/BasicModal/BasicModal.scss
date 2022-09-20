@@ -1,25 +1,41 @@
-@import "../../Scss/index.scss";
+@import "../../../Scss/index.scss";
 
 .basic-modal {
+  position:fixed;
+  z-index: 999;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
     .modal-content {
       background-color: $background-grey-dark;
       border-radius: 25px;
+      
   
       .modal-header {
         padding: 15px;
         border: 0;
         .modal-title {
           margin: 0 auto;
+          justify-content: center;
+          align-items: center;
+          display: flex;
   
           img {
-            width: 50px;
+
+            width: 10%;
           }
         }
       }
   
       .modal-body {
         width: 100%;
+        align-items: center;
+        justify-content: center;
         padding: 20px 40px 40px 40px;
+        
       }
     }
   }
