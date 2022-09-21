@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cliente-tweter/static/css/main.4ca4afb6.css",
+    "main.js": "/cliente-tweter/static/js/main.38c97893.js",
+    "static/js/713.c92d02a5.chunk.js": "/cliente-tweter/static/js/713.c92d02a5.chunk.js",
+    "static/media/1.1_error-404.png": "/cliente-tweter/static/media/1.1_error-404.fe6e5b62fe9e18403f7c.png",
+    "static/media/4.1_logo.png": "/cliente-tweter/static/media/4.1_logo.0d659bb2e036e6fdfb2c.png",
+    "static/media/4.2_logo-white.png": "/cliente-tweter/static/media/4.2_logo-white.13c88c37e967a94ebc5b.png",
+    "static/media/10.2_date-birth.svg": "/cliente-tweter/static/media/10.2_date-birth.a0465456897beabca6b539ed335e076f.svg",
+    "static/media/camara.svg": "/cliente-tweter/static/media/camara.d25775caaa8291a151822bb7942f88aa.svg",
+    "static/media/10.3_location.svg": "/cliente-tweter/static/media/10.3_location.6b82d71cf8f9662ac7f1cd780007f99c.svg",
+    "static/media/10.1_link.svg": "/cliente-tweter/static/media/10.1_link.9388998624eb8da0172cc3baa0229e68.svg",
+    "static/media/12.1_close.svg": "/cliente-tweter/static/media/12.1_close.da5c42223be72e07b42078ba244d26c0.svg",
+    "index.html": "/cliente-tweter/index.html",
+    "main.4ca4afb6.css.map": "/cliente-tweter/static/css/main.4ca4afb6.css.map",
+    "main.38c97893.js.map": "/cliente-tweter/static/js/main.38c97893.js.map",
+    "713.c92d02a5.chunk.js.map": "/cliente-tweter/static/js/713.c92d02a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ca4afb6.css",
+    "static/js/main.38c97893.js"
+  ]
+}
